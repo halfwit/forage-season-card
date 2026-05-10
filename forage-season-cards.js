@@ -257,8 +257,6 @@ window.customCards.push({
  */
 
 const DEFAULT_COLUMNS = 2;
-const PROJECT_NAME = "Edible Flora & Fungi Worldwide";
-const PROJECT_URL  = "https://www.inaturalist.org/projects/edible-flora-fungi-worldwide";
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
 
