@@ -2,7 +2,7 @@
 
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
-Lovelace cards for the [Forage Season](https://github.com/yourusername/forage-season-integration) integration. Two card types in one resource file — no extra dependencies required.
+Lovelace cards for the [Forage Season](https://github.com/halfwit/forage-season-integration) integration. Two card types in one resource file — no extra dependencies required.
 
 ---
 
@@ -33,7 +33,7 @@ Observations © iNaturalist contributors, licensed **CC BY-NC**. Both cards rend
    ```
 3. Refresh your browser (Shift+reload)
 
-> **Requires** the [Forage Season integration](https://github.com/yourusername/forage-season-integration) to be installed and configured first.
+> **Requires** the [Forage Season integration](https://github.com/halfwit/forage-season-integration) to be installed and configured first.
 
 ---
 
